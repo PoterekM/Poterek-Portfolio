@@ -1,42 +1,33 @@
-# _{Application Name}_
+# _{Michelle Poterek's Resume}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{A webpage that contains my portfolio, resume, and an about-me section}, {May 26, 2017}_
 
-#### By _**{List of contributors}**_
+#### By _**{Michelle Poterek}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{This webpage contains an initial index page with 3 subsections: resume, portfolio, and a bit about me. This is so a party interested in collaborating can navigate to the subsection they find most relevant to the aspect that they find most important when finding a web developer.}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Bootstrap v3.3.7 is being used. If for any reason bootstrap becomes incompatible, please use the Bootstrap CSS CDN and use that link in the top of the styleseets instead_
+* _The webpage will largely work without internet connection once pages are loaded except for the background-image in the About Me_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{ The index page images collide at certain break-points when adjusting the size of the browser window.
-
-
-  Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{The index page images collide at certain break-points when adjusting the size of the browser window.}_
 
 ## Support and contact details
 
-_{ Please feel free to collaborate with me! You can fork my repository and 
-
-  Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{ Please feel free to collaborate with me! You can fork my repository or feel free to e-mail me with any comments, questions, or feedback.}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{This webpage is built using HTML, CSS, and a Bootstrap Stylesheet.}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{This webpage is under the MIT License}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_{Michelle Poterek}_**
