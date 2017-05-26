@@ -31,3 +31,7 @@
   float: left;
   margin: 10px;
 }
+
+.panel-heading {
+  text-align: center;
+}
