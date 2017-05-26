@@ -19,6 +19,7 @@
 
 .well {
   text-align: center;
+  overflow: hidden;
 }
 
 .well img {
@@ -34,4 +35,9 @@
 
 .panel-heading {
   text-align: center;
+}
+
+.navigation {
+  float: left;
+  text-align: left;
 }
