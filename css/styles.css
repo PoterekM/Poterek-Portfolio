@@ -24,3 +24,8 @@
 .well img {
   border-radius: 50%;
 }
+
+.panel img {
+  max-width: 35%;
+  max-height: 35%;
+}
