@@ -1,3 +1,7 @@
+body {
+  background-color: #8B0300;
+}
+
 .jumbotron img {
   float: left;
   /*overflow: hidden;*/
@@ -11,6 +15,8 @@
 .jumbotron {
   overflow: hidden;
   text-align: center;
+  background-color: #21D1C8;
+  color: white;
 }
 
 .mainLinks {
@@ -20,6 +26,7 @@
 .well {
   text-align: center;
   overflow: hidden;
+  background-color: #21D1C8;
 }
 
 .well img {
@@ -39,4 +46,11 @@
 
 .navigation {
   text-align: center;
+}
+
+.resume {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: 30px;
 }
