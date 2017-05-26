@@ -1,0 +1,10 @@
+.jumbotron img {
+  float: left;
+  /*overflow: hidden;*/
+  max-height: 25%;
+  width: auto;
+}
+
+.jumbotron {
+  overflow: hidden;
+}
