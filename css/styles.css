@@ -74,3 +74,11 @@ ul {
   float: left;
   margin: 10px;
 }
+
+/*About Me Styles*/
+#about.jumbotron{
+  background-image: url(https://media.giphy.com/media/kCZdfEj5oyaGs/giphy.gif);
+  background-repeat: no-repeat;
+  padding: 150px;
+  margin: 20px;
+}
