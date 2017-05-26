@@ -81,4 +81,15 @@ ul {
   background-repeat: no-repeat;
   padding: 150px;
   margin: 20px;
+  /*border-radius: 50%;*/
+  background-position: center;
+}
+
+.sidebar {
+  text-align: center;
+  background-color: #F2DC1D;
+  display: table-cell;
+  display: table-row;
+  height: 100%;
+  margin-top: 100px;
 }
