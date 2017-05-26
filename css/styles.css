@@ -28,4 +28,6 @@
 .panel img {
   max-width: 35%;
   max-height: 35%;
+  float: left;
+  margin: 10px;
 }
