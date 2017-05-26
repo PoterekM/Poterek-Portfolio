@@ -20,6 +20,11 @@ body {
   border-radius: 50%
 }
 
+.jumbotron h1 h2{
+  margin-top: 700px;
+  /*padding-top: 700px;*/
+}
+
 .mainLinks {
   text-align: center;
 }
@@ -97,4 +102,11 @@ ul {
   display: table-row;
   height: 100%;
   margin-top: 100px;
+}
+
+@media screen and (max-width: 1238px) and (min-width: 991px) {
+  body {
+    background-color: salmon;
+    color: white; 
+  }
 }

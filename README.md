@@ -1,4 +1,4 @@
-# _{Michelle Poterek's Resume}_
+# _Michelle Poterek's Resume_
 
 #### _{A webpage that contains my portfolio, resume, and an about-me section}, {May 26, 2017}_
 
