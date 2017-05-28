@@ -16,11 +16,11 @@ _This webpage contains an initial index page with 3 subsections: resume, portfol
 
 ## Known Bugs
 
-_The index page images collide at certain break-points when adjusting the size of the browser window. I added a media query to pinpoint rough widths of when the page breaks._
+_The index page images scale to be larger than they were before they stack on each other when adjusting the browser size _
 
-_The link to my project cupcackles is a lost 404_
+_The link to my project Cupcackles does not open the page_
 
-_When viewed in a mobile version the portfolio collaborator is under the image. I like the way this is and plan on fixing this for the desktop version._
+_When viewed in a mobile version the project collaborator is under the image. I like the way this is and plan on fixing this for the desktop version._
 
 ## Support and contact details
 
