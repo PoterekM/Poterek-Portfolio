@@ -28,6 +28,10 @@ body {
   text-align: center;
 }
 
+.mainLinks img {
+  max-width: 100%;
+  height: auto;
+}
 .well {
   text-align: center;
   overflow: hidden;
