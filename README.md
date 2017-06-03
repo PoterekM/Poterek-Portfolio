@@ -12,6 +12,8 @@ _This webpage contains an initial index page with 3 subsections: resume, portfol
 
 * _Bootstrap v3.3.7 is being used. If for any reason bootstrap becomes incompatible, please use the Bootstrap CSS CDN and use that link in the top of the styleseets instead_
 * _The webpage will largely work without internet connection once pages are loaded except for the background-image in the About Me_
+* _Please access this page remotely via this web-address : https://poterekm.github.io/Poterek-Portfolio/index.html _
+* _OR you can open up your terminal, type in "cd desktop", "git clone https://github.com/PoterekM/Poterek-Portfolio"
 
 
 ## Known Bugs
